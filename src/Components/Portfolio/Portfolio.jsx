@@ -27,7 +27,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://shivam-dureja.netlify.app/#contact"
+              href="https://github.com/ShivamDureja/React-Portfolio-Website"
               className="btn btn-primary"
               target="_blank"
             >
