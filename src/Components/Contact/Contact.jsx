@@ -38,12 +38,6 @@ const Contact = () => {
             <h5>shivam dureja</h5>
             <a href="https://www.linkedin.com/in/shivam-dureja-3ba2b1198/" target='_blank'>Send a message</a>
           </article>
-          <article className="contact__option">
-            <HiOutlineMail className='contact__option-icon'/>
-            <h4>WhatsApp</h4>
-            <h5>+919958125157</h5>
-            <a href="https://api.whatsapp.com/send?phone=+919958125157" target='_blank'>Send a message</a>
-          </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder=' Your Full Name' required />

@@ -4,7 +4,7 @@ import myImg from "../../Assets/me8.jpg"
 import {FaAward} from 'react-icons/fa'
 import {AiFillProject} from 'react-icons/ai'
 import {SiReadthedocs} from 'react-icons/si'
-import CV from '../../Assets/MyResume .pdf'
+import CV from '../../Assets/ShivamDureja-Resume.pdf'
 
 const About = () => {
   return (
